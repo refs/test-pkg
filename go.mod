@@ -1,3 +1,3 @@
-module github.com/refs/test-pkg/v2
+module github.com/refs/test-pkg/v3
 
 go 1.13
